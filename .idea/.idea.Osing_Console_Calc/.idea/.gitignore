@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Osing_Console_Calc.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Osing Soft\C#\Calc\.idea\.idea.Osing_Console_Calc\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

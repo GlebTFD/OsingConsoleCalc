@@ -1,0 +1,15 @@
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\bin\Debug\net6.0\Osing_Console_Calc.exe
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\bin\Debug\net6.0\Osing_Console_Calc.deps.json
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\bin\Debug\net6.0\Osing_Console_Calc.runtimeconfig.json
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\bin\Debug\net6.0\Osing_Console_Calc.dll
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\bin\Debug\net6.0\Osing_Console_Calc.pdb
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.csproj.AssemblyReference.cache
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.AssemblyInfoInputs.cache
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.AssemblyInfo.cs
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.csproj.CoreCompileInputs.cache
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.dll
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\refint\Osing_Console_Calc.dll
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.pdb
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\Osing_Console_Calc.genruntimeconfig.cache
+D:\Osing Soft\C#\Calc\Osing_Console_Calc\obj\Debug\net6.0\ref\Osing_Console_Calc.dll
